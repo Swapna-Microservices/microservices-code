@@ -1,0 +1,24 @@
+Create an microservice for 
+
+DepartmentManagement
+
+Department
+
+DepartmentId
+DepartmentName
+
+POST
+GET
+
+DELETEBYNAME
+PUTBYNAME
+GETBYNAMe
+
+EmployeeProfile
+DepartmentProfile
+
+
+
+
+
+
